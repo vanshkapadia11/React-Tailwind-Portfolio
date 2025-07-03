@@ -1,8 +1,9 @@
 import React from "react";
+import Header from "./Components/Header";
 function App() {
   return (
     <>
-      <h2>Hwllo World!!</h2>
+      <Header />
     </>
   );
 }
